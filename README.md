@@ -23,17 +23,24 @@
 </h2>
 
 <div align="center">
+  
   <h2>
-    Saat ini sebagai Mahasiwa PENS <img src ="Logo_PENS.png"> jurusan Teknologi Game. 
+    Currently pursuing my 
+    <span style="color: #FFD700;">Applied Bachelor's (D4)</span> 
+    in Game Technology at PENS
+    <img src ="Logo_PENS.png" alt="PENS Logo" width="30px" height="30px" style="vertical-align: middle;"> 
   </h2>
+  
   <h3>
-    Misi utama saat ini: 
+    My main mission is: 
     <img src="https://img.shields.io/badge/GAME_DEVELOPER-B31B1B?style=for-the-badge&logo=unity&logoColor=white" alt="Game Developer Badge"/> 
-    yang siap menggebrak dunia programing. Tertarik dalam bidang Game Programming, tapi juga mendalami Web dan AI sebagai support role.
+    ready to conquer the world of programming. I'm interested in Game Programming, but I also delve into Web and AI as support roles.
   </h3>
+  
   <h3 align ="center">
-    Jika saya tidak sedang ngoding, saya pasti sedang Main Games atau Nonton Anime
+    If I'm not coding, I'm definitely playing Games or watching Anime.
   </h3>
+  
 </div>
 
 ---
