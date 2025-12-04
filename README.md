@@ -27,7 +27,7 @@
   <h2>
     Currently pursuing my 
     <span style="color: #FFD700;">Applied Bachelor's (D4)</span> 
-    in Game Technology at PENS
+    in Game Technology at <a href = "https://www.pens.ac.id/">PENS</a>
     <img src ="Logo_PENS.png" alt="PENS Logo" width="30px" height="30px" style="vertical-align: middle;"> 
   </h2>
   
