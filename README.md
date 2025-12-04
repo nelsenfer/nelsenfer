@@ -24,9 +24,7 @@
 
 <div align="center">
   <h2>
-    Saat ini sebagai 
-    <img src="https://img.shields.io/badge/Mahasiswa%20PENS-007ACC?style=for-the-badge&logo=https://raw.githubusercontent.com/nelsenfer/nelsenfer/main/logo_PENS.png&logoColor=white="PENS Badge"/> 
-    jurusan Teknologi Game. 
+    Saat ini sebagai Mahasiwa PENS <img src ="Logo_PENS.png"> jurusan Teknologi Game. 
   </h2>
   
   <h3>
