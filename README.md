@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, Iam Nelsen Febri Handaka👋
 
 <!--
 **nelsenfer/nelsenfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![halo](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnE1NjBlbHpqa3dpdnhsc3MyNzd5Z29nZngyaGVxYTI1c2VlcmFhbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Svqdi36bJZKGs5Pscj/giphy.gif)
