@@ -24,25 +24,25 @@
 
 <div align="center">
   <h2>
-    Misi utama saat ini: 
-    <img src="https://img.shields.io/badge/GAME_DEVELOPER-B31B1B?style=for-the-badge&logo=unity&logoColor=white" alt="Game Developer Badge"/> 
-    yang siap menggebrak dunia programing.
-  </h2>
-
-  <h2 style="font-size: 1.1em;">
-    - 💻 Tertarik dalam bidang **Game Programming** , tapi juga mendalami *Web* dan *AI* sebagai support role.
+    Saat ini sebagai 
+    <img src="https://img.shields.io/badge/Mahasiswa%20PENS-007ACC?style=for-the-badge&logo=https://raw.githubusercontent.com/nelsenfer/nelsenfer/main/logo_PENS.png&logoColor=white="PENS Badge"/> 
+    jurusan Teknologi Game. 
   </h2>
   
-  <h2 style="font-size: 1.1em;">
-    - 🌍 Jika saya tidak sedang ngoding, saya pasti sedang main 
+  <h3>
+    Misi utama saat ini: 
+    <img src="https://img.shields.io/badge/GAME_DEVELOPER-B31B1B?style=for-the-badge&logo=unity&logoColor=white" alt="Game Developer Badge"/> 
+    yang siap menggebrak dunia programing. Tertarik dalam bidang **Game Programming**, tapi juga mendalami *Web* dan *AI* sebagai support role.
+  </h3>
+
+  <h3>
+    🌍 Jika saya tidak sedang ngoding, saya pasti sedang main 
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-9086-6be15f403932.gif" width="30px"/>
     **GAME** atau maraton nonton 
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-9086-6be15f403932.gif" width="30px"/> 
     **ANIME**!
-  </h2>
+  </h3>
 </div>
-
----
 
 ---
 
