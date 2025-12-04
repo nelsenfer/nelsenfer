@@ -33,13 +33,11 @@
     yang siap menggebrak dunia programing. Tertarik dalam bidang Game Programming, tapi juga mendalami Web dan AI sebagai support role.
   </h3>
 
-  <h3>
-    🌍 Jika saya tidak sedang ngoding, saya pasti sedang main 
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-9086-6be15f403932.gif" width="30px"/>
-    GAME atau maraton nonton 
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-9086-6be15f403932.gif" width="30px"/> 
-    ANIME!
+  <h3 align ="center">
+    Jika saya tidak sedang ngoding, saya pasti sedang:
   </h3>
+
+  <h3>Main Games atau Nonton Anime</h3>
 </div>
 
 ---
