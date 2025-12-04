@@ -18,33 +18,31 @@
 
 ---
 
-<h2 align="center" style="color: #FF5733; font-size: 2.5em;">
-  🎮 A B O U T &nbsp; M E &nbsp; & &nbsp; M I S S I O N 🚀
+<h2 align="center">
+  👾 A B O U T &nbsp; M E &nbsp; & &nbsp; M I S S I O N 🎯
 </h2>
 
-<p align="center" style="font-size: 1.1em; color: #CCCCCC;">
-  - 🎯 Misi utama saat ini:
-  <span style="font-size: 1.4em; color: #33FF57; font-weight: bold;">
-    GAME DEVELOPER
-  </span>
-  yang siap menggebrak dunia programing.
-  <br>
-  - 💻 Tertarik dalam bidang
-  <span style="color: #33F0FF;">
-    Game Programming
-  </span>, tapi juga mendalami Web dan AI sebagai *support role*.
-  <br>
-  - 🌍 Jika saya tidak sedang ngoding, saya pasti sedang main 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-9086-6be15f403932.gif" width="30px"/>
-  <span style="color: #FFD700;">
-    Game
-  </span> 
-  atau maraton nonton 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-9086-6be15f403932.gif" width="30px"/> 
-  <span style="color: #8A2BE2;">
-    Anime
-  </span>!
-</p>
+<div align="center">
+  <h3>
+    Misi utama saat ini: 
+    <img src="https://img.shields.io/badge/GAME_DEVELOPER-B31B1B?style=for-the-badge&logo=unity&logoColor=white" alt="Game Developer Badge"/> 
+    yang siap menggebrak dunia programing.
+  </h3>
+
+  <p style="font-size: 1.1em;">
+    - 💻 Tertarik dalam bidang **Game Programming** , tapi juga mendalami *Web* dan *AI* sebagai support role.
+  </p>
+  
+  <p style="font-size: 1.1em;">
+    - 🌍 Jika saya tidak sedang ngoding, saya pasti sedang main 
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-9086-6be15f403932.gif" width="30px"/>
+    **GAME** atau maraton nonton 
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-9086-6be15f403932.gif" width="30px"/> 
+    **ANIME**!
+  </p>
+</div>
+
+---
 
 ---
 
