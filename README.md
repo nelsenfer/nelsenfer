@@ -70,4 +70,4 @@
   <img src="https://komarev.com/ghpvc/?username=nelssenfer&color=blueviolet" alt="Profile views" />
 </p>
 
-![Nelsss's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsenfer&show_icons=true&theme=dark)
+![Nelsss's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsenfer)
